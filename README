@@ -3,7 +3,8 @@ contains information on every shot that Kobe threw since he started in the
 NBA. Some of the shots do not have information on whether he made the shot 
 or not; we use these as test data and the rest as training data. 
 
+See https://www.kaggle.com/c/kobe-bryant-shot-selection for a more complete 
+description of the problem. 
 
-
-using numpy scipy and pandas
-as the main tools. At this point the project is in the development stage. 
+I am using numpy scipy and pandas
+as the main tools. This is work in progress
